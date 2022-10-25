@@ -1,2 +1,1 @@
-# assignment-1
-Repo for bootcamp assignment 1
+# Code Refactor Starter Code
